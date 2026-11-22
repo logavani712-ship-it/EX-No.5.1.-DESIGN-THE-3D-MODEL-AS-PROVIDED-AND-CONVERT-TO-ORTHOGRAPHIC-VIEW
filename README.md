@@ -1,7 +1,7 @@
 # EX No.5.1.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
 #### Name:Logavani D
 #### Ref no : 26018671
-#### Date : 12.11.2026
+#### Date : 12.11.2026 
 
 ## AIM: 
 To create orthographic view of given 3D model
